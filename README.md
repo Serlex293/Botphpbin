@@ -1,6 +1,4 @@
-## BIN Checker Bot
-
-Test Bot: [Bin Checker Bot](https://t.me/phpBinBot)
+## BIN ONE FOR ALL
 
 ## Env
 
@@ -36,4 +34,4 @@ Other:
 
 ## Command
 
-`!bin <Your-xxxxxx-Bin>`
+.start
